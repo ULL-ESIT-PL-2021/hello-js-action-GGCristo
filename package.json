@@ -1,0 +1,16 @@
+{
+  "name": "hello-js-action-GGCristo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-PL-2021/hello-js-action-GGCristo"
+  },
+  "keywords": [],
+  "author": "Cristo Garcia Gonzalez <cgg.code@gmail.com> (https://github.com/GGCristo)",
+  "license": "ISC"
+}
