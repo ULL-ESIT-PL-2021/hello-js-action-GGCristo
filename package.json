@@ -15,7 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "@actions/core": "^1.2.6",
-    "@actions/github": "^4.0.0",
+    "@actions/github": "^5.0.1",
     "@zeit/ncc": "^0.22.3",
     "is-plain-object": "^5.0.0",
     "loader": "^2.1.1"
